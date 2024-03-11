@@ -27,3 +27,4 @@ test hensyu(okubo)
 abe is the best.
 my name is onoe.
 my name is inoue.
+私が天に立つ。
