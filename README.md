@@ -29,3 +29,4 @@ my name is onoe.
 abe is superman.
 my name is inoue.
 
+I like a game.
