@@ -27,3 +27,5 @@ test hensyu(okubo)
 abe is the best.
 my name is onoe.
 abe is superman.
+my name is inoue.
+
